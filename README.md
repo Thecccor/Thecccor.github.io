@@ -1,11 +1,10 @@
 ## 珂朵莉天下第一
 ### 郭鑫蠢蛋
 
-You can use the [editor on GitHub](https://github.com/Thecccor/Thecccor.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+做个网址很简单 但是网站蛮难的 尤其是自己写
+这个是套用一个模版进行的二次简单创作
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 324寝室天下第一
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
