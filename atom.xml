@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thecccor.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-11-04T13:37:40.884Z</updated>
+    <title>Thecccor</title>
+    <updated>2020-11-04T13:40:41.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thecccor.github.io"/>
     <link rel="self" href="https://thecccor.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>珂朵莉天下第一</subtitle>
     <logo>https://thecccor.github.io/images/avatar.png</logo>
     <icon>https://thecccor.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Thecccor</rights>
+    <entry>
+        <title type="html"><![CDATA[珂朵莉天下第一]]></title>
+        <id>https://thecccor.github.io/post/ke-duo-li-tian-xia-di-yi/</id>
+        <link href="https://thecccor.github.io/post/ke-duo-li-tian-xia-di-yi/">
+        </link>
+        <updated>2020-11-04T13:40:03.000Z</updated>
+        <content type="html"><![CDATA[<p>我才是</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://thecccor.github.io/post/hello-gridea/</id>
